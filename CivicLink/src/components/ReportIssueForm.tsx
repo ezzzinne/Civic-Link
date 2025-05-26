@@ -83,7 +83,7 @@ export default function ReportIssueForm() {
       setLgas(nigeriaData[selectedState].lgas || []);
       setSelectedLga('');
     }
-  }, [selectedState]);
+  }, [nigeriaData, selectedState]);
   
 
   return (

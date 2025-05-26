@@ -19,7 +19,7 @@
 - **i18next** for internationalization
 - **Web3.Storage** for IPFS uploads
 - **Ethers.js** for smart contract interaction
-- **Tailwind / Custom CSS** for styling
+- **Custom CSS** for styling
 
 ---
 
@@ -30,9 +30,3 @@
 - Node.js ≥ 16
 - npm or yarn
 - MetaMask (for Web3 features)
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/your-username/civiclink.git
-cd civiclink
