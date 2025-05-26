@@ -17,7 +17,6 @@
 - **React + TypeScript + Vite**
 - **Redux Toolkit** for state management
 - **i18next** for internationalization
-- **Web3.Storage** for IPFS uploads
 - **Ethers.js** for smart contract interaction
 - **Custom CSS** for styling
 
