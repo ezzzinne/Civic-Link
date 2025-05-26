@@ -1,0 +1,35 @@
+{
+  "Anambra": {
+    "lgas": ["Awka South", "Onitsha North"],
+    "representatives": [
+      {
+        "name": "Michael Otti",
+        "role": "Local Government Chairman",
+        "duty": " - Naming of roads and streets and numbering of houses within their local government areas",
+        "email": "michael.otti11@gov.ng",
+        "no": "08109291900",
+        "lga": "Awka South"
+        
+      },
+      {
+        "name": "Nneka Nzekwe",
+        "role": "Commissioner For Health",
+        "duty": " - Developing and Implementing Health Policies.",
+        "email": "nnekababynzekwes@gov.ng",
+        "lga": "Awka South",
+        "no": "08109291999"
+      },
+      {
+        "name": "Hon. Chuks Anioke",
+        "role": "Commisioner For Education",
+        "duty": " - Coordinate policies, standards, and initiatives related to education in the State.",
+        "email": "Chuksdman1190@gov.ng",
+        "lga": "Awka South",
+        "no": "07009291999"
+      }
+    ]
+  }
+}
+
+  
+  
